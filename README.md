@@ -18,7 +18,7 @@ vous aurez un menu qui vous permettra
 
 # 🧩  Téléchargement
 
-*[spchatstaff](https://github.com/Shape581/Connexion581)*
+*[spchat](https://github.com/Shape581/Connexion581)*
 
 # 📮  Contact
 
