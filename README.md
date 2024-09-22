@@ -12,7 +12,7 @@ vous aurez un menu qui vous permettra
 
 # 🔌  Installation
 
-- 1 Télécharger le fichier spchatstaff.dll
+- 1 Télécharger le fichier spchat.dll
 - 2 Mettez les fichiers dans le dossier plugin de vôtre serveur
 - 3 Utiliser le plugin
 
