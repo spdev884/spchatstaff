@@ -1,4 +1,4 @@
-# 💬 Chat staff v1.0000
+# 💬 Chat staff v1.01
 
 Le spchatstaff permet au staff de se parler entre eux sans discord
 
