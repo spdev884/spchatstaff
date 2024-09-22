@@ -1,6 +1,6 @@
 ![GitHub all releases](https://github.com/spdev884/spchatstaff#)
 
-# 💬 Chat staff v1.0000
+![GitHub all releases](https://github.com/spdev884/spchatstaff#) # 💬 Chat staff v1.0000
 
 Le spchatstaff permet au staff de se parler entre eux sans discord
 
